@@ -1,2 +1,2 @@
 # Netflix_clone
-THIS IS A NETFLIX CLONE. THIS TASK WAS ASSIGNED TO ME BY BHARAT INTERN AS I AM A WEB DEVELOPER INTERN AT BHARAT INTERN. THIS PROJECT HAS ENHANCED MY KNOWLEDGE MY KNOWLEDGE A LOT AS I HAVE USED HTML AND CSS INTO THIS. THIS IS MY FIRST WEB DEVELOPMENT PROJECT, IT WAS FUN MAKING IT.
+This is a weather api website. As i am a web developer intern at bharat intern so they had assigned this task to me. This task has enhanced my knowledge a lot , as i have used html,css and java script in making this.
