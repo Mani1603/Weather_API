@@ -1,4 +1,4 @@
-const apiKey = '791ec2dcfbf25583ccb6e252acacd74e'; // Replace with your OpenWeatherMap API key
+const apiKey = '791ec2dcfbf25583ccb6e252acacd74e'; 
 
 async function getWeather() {
     const city = document.getElementById('city').value;
@@ -28,7 +28,6 @@ async function getWeather() {
 
         document.getElementById('weather-data').innerHTML = weatherData;
 
-        // Change background image based on weather condition
         const weatherCondition = data.weather[0].main.toLowerCase();
         changeBackgroundImage(weatherCondition);
     } catch (error) {
